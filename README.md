@@ -17,8 +17,8 @@
 ### screenshot
 
 <img src="photo/1.jpg" alt="Logo" width="300" >
-<img src="photo/2.jpg" alt="Logo" hight="300" >
-<img src="photo/3.jpg" alt="Logo" hight="300" >
-<img src="photo/4.jpg" alt="Logo" hight="300" >
-<img src="photo/5.jpg" alt="Logo" hight="300" >
+<img src="photo/2.jpg" alt="Logo" width="300" >
+<img src="photo/3.jpg" alt="Logo" width="300" >
+<img src="photo/4.jpg" alt="Logo" width="300" >
+<img src="photo/5.jpg" alt="Logo" width="300" >
  
